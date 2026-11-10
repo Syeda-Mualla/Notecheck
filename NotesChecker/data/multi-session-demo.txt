@@ -1,0 +1,23 @@
+Date: 2026-09-12
+Start: 10:00
+End: 12:00
+Supported Alex with a library visit and shopping outside the home.
+
+Date: 2026-09-14
+Start: 09:00
+End: 10:00
+Alex did not leave home at all during the week, including 12 September 2026.
+
+Date: 2026-09-18
+Start: 10:00
+End: 12:00
+Supported Alex at the market and carried groceries home.
+
+Date: 2026-09-18
+Start: 11:30
+End: 13:00
+Supported Alex to attend the clinic and return home.
+
+Date: 2026-09-19
+Start: 09:30
+Supported Alex with breakfast preparation. The finish time was not recorded.

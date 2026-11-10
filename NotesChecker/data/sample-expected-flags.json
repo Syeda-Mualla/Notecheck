@@ -1,0 +1,42 @@
+{
+  "participant": "Alex M. (fictional)",
+  "from": "2026-06-20",
+  "to": "2026-09-18",
+  "noteCount": 26,
+  "codeFlags": [
+    {
+      "type": "Missing end time",
+      "noteIds": [
+        "n4"
+      ]
+    },
+    {
+      "type": "Thin note",
+      "noteIds": [
+        "n6"
+      ]
+    },
+    {
+      "type": "Overlap",
+      "noteIds": [
+        "n9",
+        "n10"
+      ]
+    }
+  ],
+  "aiFlags": [
+    {
+      "type": "Clash",
+      "noteIds": [
+        "n7",
+        "n8"
+      ]
+    },
+    {
+      "type": "Next step dropped",
+      "noteIds": [
+        "n1"
+      ]
+    }
+  ]
+}

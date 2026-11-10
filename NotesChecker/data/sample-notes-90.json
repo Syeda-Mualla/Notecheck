@@ -1,0 +1,235 @@
+[
+  {
+    "id": "n1",
+    "date": "2026-06-20",
+    "sessionDate": "2026-06-20",
+    "startTime": "09:00",
+    "text": "Date: 2026-06-20\nStart: 09:00\nEnd: 10:00\nDiscussed wheelchair repair. Follow up on wheelchair repair next visit.",
+    "sourceTitle": "2026-06-20 \u2014 Progress note",
+    "endTime": "10:00"
+  },
+  {
+    "id": "normal-1",
+    "date": "2026-06-23",
+    "sessionDate": "2026-06-23",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-06-23 \u2014 Progress note",
+    "text": "Date: 2026-06-23\nStart: 09:00\nEnd: 10:00\nPrepared lunch at home with Alex and washed the dishes afterwards."
+  },
+  {
+    "id": "n2",
+    "date": "2026-06-27",
+    "sessionDate": "2026-06-27",
+    "startTime": "09:00",
+    "text": "Date: 2026-06-27\nStart: 09:00\nEnd: 10:00\nSupported grocery shopping and putting food away.",
+    "sourceTitle": "2026-06-27 \u2014 Progress note",
+    "endTime": "10:00"
+  },
+  {
+    "id": "normal-2",
+    "date": "2026-06-30",
+    "sessionDate": "2026-06-30",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-06-30 \u2014 Progress note",
+    "text": "Date: 2026-06-30\nStart: 09:00\nEnd: 10:00\nSupported Alex to organise household paperwork at the kitchen table."
+  },
+  {
+    "id": "n3",
+    "date": "2026-07-04",
+    "sessionDate": "2026-07-04",
+    "startTime": "10:00",
+    "text": "Date: 2026-07-04\nStart: 10:00\nEnd: 12:00\nSupported a library visit and choosing books.",
+    "sourceTitle": "2026-07-04 \u2014 Progress note",
+    "endTime": "12:00"
+  },
+  {
+    "id": "normal-3",
+    "date": "2026-07-07",
+    "sessionDate": "2026-07-07",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-07 \u2014 Progress note",
+    "text": "Date: 2026-07-07\nStart: 09:00\nEnd: 10:00\nSupported Alex with grocery shopping and storing food at home."
+  },
+  {
+    "id": "normal-4",
+    "date": "2026-07-11",
+    "sessionDate": "2026-07-11",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-11 \u2014 Progress note",
+    "text": "Date: 2026-07-11\nStart: 09:00\nEnd: 10:00\nHelped Alex prepare vegetables and cook lunch at home."
+  },
+  {
+    "id": "normal-5",
+    "date": "2026-07-15",
+    "sessionDate": "2026-07-15",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-15 \u2014 Progress note",
+    "text": "Date: 2026-07-15\nStart: 09:00\nEnd: 10:00\nSupported Alex to choose books at the library and return home."
+  },
+  {
+    "id": "normal-6",
+    "date": "2026-07-19",
+    "sessionDate": "2026-07-19",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-19 \u2014 Progress note",
+    "text": "Date: 2026-07-19\nStart: 09:00\nEnd: 10:00\nHelped Alex sort laundry and put clean clothes away at home."
+  },
+  {
+    "id": "normal-7",
+    "date": "2026-07-23",
+    "sessionDate": "2026-07-23",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-23 \u2014 Progress note",
+    "text": "Date: 2026-07-23\nStart: 09:00\nEnd: 10:00\nSupported Alex with a walk in the local park and returned home."
+  },
+  {
+    "id": "normal-8",
+    "date": "2026-07-27",
+    "sessionDate": "2026-07-27",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-27 \u2014 Progress note",
+    "text": "Date: 2026-07-27\nStart: 09:00\nEnd: 10:00\nPrepared a shopping list with Alex and checked pantry supplies at home."
+  },
+  {
+    "id": "normal-9",
+    "date": "2026-07-31",
+    "sessionDate": "2026-07-31",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-07-31 \u2014 Progress note",
+    "text": "Date: 2026-07-31\nStart: 09:00\nEnd: 10:00\nSupported Alex to prepare lunch and clean the kitchen afterwards."
+  },
+  {
+    "id": "n4",
+    "date": "2026-08-03",
+    "sessionDate": "2026-08-03",
+    "startTime": "09:30",
+    "text": "Date: 2026-08-03\nStart: 09:30\nSupported morning routine and prepared breakfast.",
+    "sourceTitle": "2026-08-03 \u2014 Progress note"
+  },
+  {
+    "id": "normal-10",
+    "date": "2026-08-07",
+    "sessionDate": "2026-08-07",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-08-07 \u2014 Progress note",
+    "text": "Date: 2026-08-07\nStart: 09:00\nEnd: 10:00\nHelped Alex organise appointment letters and file them at home."
+  },
+  {
+    "id": "n5",
+    "date": "2026-08-10",
+    "sessionDate": "2026-08-10",
+    "startTime": "10:00",
+    "text": "Date: 2026-08-10\nStart: 10:00\nEnd: 11:00\nSupported meal preparation at home.",
+    "sourceTitle": "2026-08-10 \u2014 Progress note",
+    "endTime": "11:00"
+  },
+  {
+    "id": "normal-11",
+    "date": "2026-08-14",
+    "sessionDate": "2026-08-14",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-08-14 \u2014 Progress note",
+    "text": "Date: 2026-08-14\nStart: 09:00\nEnd: 10:00\nSupported Alex with shopping at the supermarket and unpacking groceries."
+  },
+  {
+    "id": "normal-12",
+    "date": "2026-08-17",
+    "sessionDate": "2026-08-17",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-08-17 \u2014 Progress note",
+    "text": "Date: 2026-08-17\nStart: 09:00\nEnd: 10:00\nHelped Alex water the garden and tidy the outdoor table at home."
+  },
+  {
+    "id": "n6",
+    "date": "2026-08-20",
+    "sessionDate": "2026-08-20",
+    "startTime": "09:00",
+    "text": "Date: 2026-08-20\nStart: 09:00\nEnd: 10:00\nSaw Alex. Fine.",
+    "sourceTitle": "2026-08-20 \u2014 Progress note",
+    "endTime": "10:00"
+  },
+  {
+    "id": "normal-13",
+    "date": "2026-08-24",
+    "sessionDate": "2026-08-24",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-08-24 \u2014 Progress note",
+    "text": "Date: 2026-08-24\nStart: 09:00\nEnd: 10:00\nSupported Alex to make lunch at home and wash the dishes."
+  },
+  {
+    "id": "normal-14",
+    "date": "2026-08-28",
+    "sessionDate": "2026-08-28",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-08-28 \u2014 Progress note",
+    "text": "Date: 2026-08-28\nStart: 09:00\nEnd: 10:00\nHelped Alex select books at the library and travelled home together."
+  },
+  {
+    "id": "normal-15",
+    "date": "2026-09-01",
+    "sessionDate": "2026-09-01",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-09-01 \u2014 Progress note",
+    "text": "Date: 2026-09-01\nStart: 09:00\nEnd: 10:00\nSupported Alex to sort laundry and organise clothes at home."
+  },
+  {
+    "id": "normal-16",
+    "date": "2026-09-05",
+    "sessionDate": "2026-09-05",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "sourceTitle": "2026-09-05 \u2014 Progress note",
+    "text": "Date: 2026-09-05\nStart: 09:00\nEnd: 10:00\nHelped Alex write a shopping list and prepare lunch at home."
+  },
+  {
+    "id": "n7",
+    "date": "2026-09-12",
+    "sessionDate": "2026-09-12",
+    "startTime": "10:00",
+    "text": "Date: 2026-09-12\nStart: 10:00\nEnd: 12:00\nSupported community access to the library and shops.",
+    "sourceTitle": "2026-09-12 \u2014 Progress note",
+    "endTime": "12:00"
+  },
+  {
+    "id": "n8",
+    "date": "2026-09-14",
+    "sessionDate": "2026-09-14",
+    "startTime": "09:00",
+    "text": "Date: 2026-09-14\nStart: 09:00\nEnd: 10:00\nUnwell all week, including 12 September. Did not leave home that week.",
+    "sourceTitle": "2026-09-14 \u2014 Progress note",
+    "endTime": "10:00"
+  },
+  {
+    "id": "n9",
+    "date": "2026-09-18",
+    "sessionDate": "2026-09-18",
+    "startTime": "10:00",
+    "text": "Date: 2026-09-18\nStart: 10:00\nEnd: 12:00\nSupported a visit to the market.",
+    "sourceTitle": "2026-09-18 \u2014 Progress note",
+    "endTime": "12:00"
+  },
+  {
+    "id": "n10",
+    "date": "2026-09-18",
+    "sessionDate": "2026-09-18",
+    "startTime": "11:30",
+    "text": "Date: 2026-09-18\nStart: 11:30\nEnd: 13:00\nSupported attendance at the clinic.",
+    "sourceTitle": "2026-09-18 \u2014 Clinic",
+    "endTime": "13:00"
+  }
+]
